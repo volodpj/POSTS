@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+ul{
+  list-style-type: none
+}
+
+li{
+  margin-bottom: 7px
+}
+
+td{
+  border: 1px solid black;
+}
+
+
+
+
